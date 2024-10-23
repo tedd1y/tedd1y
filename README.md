@@ -1,4 +1,4 @@
-## Hi there 👋
+[![roadmap.sh](https://roadmap.sh/card/tall/671941be791f57dd60d96ddb?variant=dark)](https://roadmap.sh)
 
 <!--
 **tedd1y/tedd1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
